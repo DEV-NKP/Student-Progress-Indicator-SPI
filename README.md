@@ -128,7 +128,7 @@ From this point onward, the system is going to be introduced here is "Student Pr
  >> At the very first, a landing page holding developer's information will be presented.
 ![LANDING_PAGE!](README_IMAGE/landing_page.PNG)
 
-#SPI has a unique and colorful designed logo.
+> SPI has a unique and colorful designed logo.
 ![LOGO!](README_IMAGE/logo.PNG)
 
 #SPI has the automated real time and date in every page.
