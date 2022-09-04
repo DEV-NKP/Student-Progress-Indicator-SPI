@@ -110,14 +110,14 @@ From this point onward, the system is going to be introduced here is "Student Pr
 	    Github	: https://github.com/Kaushik-Biswas
 
 	 3. FAIZA TASNIM
-	    Email	: 
+	    Email	: fz.tasnim10@gmail.com
 	    LinkedIn	: https://www.linkedin.com/in/faiza-tasnim-27843b223
 	    Github	: https://github.com/faizatasnim10
 
 	 4. SHARIA TASNIM ADRITA
-	    Email	: 
-	    LinkedIn	: 
-	    Github	: 
+	    Email	: aditasnim88@gmail.com
+	    LinkedIn	: https://www.linkedin.com/in/sharia-tasnim-adrita-03b0b3225
+	    Github	: https://github.com/Adrita70
 
 
 
