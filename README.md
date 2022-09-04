@@ -60,32 +60,28 @@ Thank you everyone.
  >> If student result is in database, the student need to login only to get student access.
  >> There are 3 different users: Admin, Faculty & Student.
 
-	---------
-	| Admin |
-	---------
+   Admin :
+   
+	   1. Display All Student Result	   - A table which will show all the students detail.
+	   2. Display All Faculty Information	   - A table which will show all faculties information.
+	   3. Display Specific Faculty Information - Search with faculty Id for a perticular faculty informations.
+	   4. Remove A Faculty Information	   - Search with faculty Id to remove a perticular faculty informations.
+	   5. Remove All Faculty Information	   - Remove all faculties information.
+	   6. Remove All Student Result		   - Remove all students result.
 
-   1. Display All Student Result	   - A table which will show all the students detail.
-   2. Display All Faculty Information	   - A table which will show all faculties information.
-   3. Display Specific Faculty Information - Search with faculty Id for a perticular faculty informations.
-   4. Remove A Faculty Information	   - Search with faculty Id to remove a perticular faculty informations.
-   5. Remove All Faculty Information	   - Remove all faculties information.
-   6. Remove All Student Result		   - Remove all students result.
 
-	-----------
-	| Faculty |
-	-----------
+   Faculty :
 
-   1. Add Result			   - A faculty can add midterm and finalterm result of any student.
-   2. Show Individual Result		   - By searching through student Id, faculty can see perticular student results.
-   3. Display All Student Result	   - A table which will show all students result.
-   4. Delete Individual Student Result	   - Search with student Id to remove a perticular student results.
+	   1. Add Result			   - A faculty can add midterm and finalterm result of any student.
+	   2. Show Individual Result		   - By searching through student Id, faculty can see perticular student results.
+	   3. Display All Student Result	   - A table which will show all students result.
+	   4. Delete Individual Student Result	   - Search with student Id to remove a perticular student results.
 
-	-----------
-	| Student |
-	-----------
 
-   1. Show Individual Marks		   - Search with student Id to view a perticular student result.
-   2. Show All Student Marks		   - A table which will show all student results.
+   Student :
+
+	   1. Show Individual Marks		   - Search with student Id to view a perticular student result.
+	   2. Show All Student Marks		   - A table which will show all student results.
 
 
 ---------------------------
@@ -99,37 +95,37 @@ From research, we found that, about 19 million student is available in Banglades
 From this point onward, the system is going to be introduced here is "Student Progress Indicator" or "SPI" in short. Through this system evaluation of a student is much more easier and effective.
 
 
-||						Developer's Informations						||
+----------------------------
+| Developer's Informations |
+----------------------------
 
+	 1. Niloy Kanti Paul
+	    Email	: niloykantipaul@gmail.com
+	    LinkedIn	: https://www.linkedin.com/in/niloy-kanti-paul-5543181ab/
+	    Github	: https://github.com/DEV-NKP
 
- 1. Niloy Kanti Paul
-    Email	: niloykantipaul@gmail.com
-    LinkedIn	: https://www.linkedin.com/in/niloy-kanti-paul-5543181ab/
-    Github	: https://github.com/DEV-NKP
+	 2. Kaushik Biswas
+	    Email	: biswaskaushik.2020@gmail.com
+	    LinkedIn	: https://www.linkedin.com/in/kaushik-biswas-2b6554243/
+	    Github	: https://github.com/Kaushik-Biswas
 
- 2. Kaushik Biswas
-    Email	: biswaskaushik.2020@gmail.com
-    LinkedIn	: https://www.linkedin.com/in/kaushik-biswas-2b6554243/
-    Github	: https://github.com/Kaushik-Biswas
+	 3. FAIZA TASNIM
+	    Email	: 
+	    LinkedIn	: https://www.linkedin.com/in/faiza-tasnim-27843b223
+	    Github	: https://github.com/faizatasnim10
 
- 3. FAIZA TASNIM
-    Email	: 
-    LinkedIn	: 
-    Github	: 
-
- 4. SHARIA TASNIM ADRITA
-    Email	: 
-    LinkedIn	: 
-    Github	: 
-
-
-
-||						Project Highlights						||
+	 4. SHARIA TASNIM ADRITA
+	    Email	: 
+	    LinkedIn	: 
+	    Github	: 
 
 
 
+----------------------
+| Project Highlights |
+----------------------
 
-#At the very first, a landing page holding developer's information will be presented.
+ >> At the very first, a landing page holding developer's information will be presented.
 ![LANDING_PAGE!](README_IMAGE/landing_page.PNG)
 
 #SPI has a unique and colorful designed logo.
