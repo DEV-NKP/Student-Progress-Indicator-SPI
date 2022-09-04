@@ -1,4 +1,4 @@
-# Student-Progress-Indicator-SPI
+# Student Progress Indicator (SPI)
 
 | WELCOME TO SPI(STUDENT PROGRESS INDICATOR) |
 
