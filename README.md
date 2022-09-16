@@ -59,12 +59,12 @@ Thank you everyone.
 | How to use "SPI" |
 --------------------
 
- >>1. If you want to run through .cpp file, make sure your console box is in the full screen and font size is '20'.
- 2. To get access to the administrative permissions, administrator password is: passwordadmin.
- 3. If you are new to SPI, make sure you have signed up as a "Faculty".
- 4. After sign up log in as a "Faculty" to add student marks and results.
- 5. If student result is in database, the student need to login only to get student access.
- 6. There are 3 different users: Admin, Faculty & Student.
+	 1. If you want to run through .cpp file, make sure your console box is in the full screen and font size is '20'.
+	 2. To get access to the administrative permissions, administrator password is: passwordadmin.
+	 3. If you are new to SPI, make sure you have signed up as a "Faculty".
+	 4. After sign up log in as a "Faculty" to add student marks and results.
+	 5. If student result is in database, the student need to login only to get student access.
+	 6. There are 3 different users: Admin, Faculty & Student.
 
    Admin :
    
