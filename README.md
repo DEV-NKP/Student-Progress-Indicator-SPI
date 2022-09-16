@@ -38,8 +38,11 @@ Thank you everyone.
 -------------------------------------------------
 
  >> Open "SPI_Student_Progress_Indicator.cpp" in the CodeBlocks.
+ 
  >> CodeBlocks will open the code for the SPI(Student Progress Indicator).
+ 
  >> Press on the "Build & Run" option from the above toolbox.
+ 
  >> The system will be ready to use.
 
 ---------------------------
@@ -47,19 +50,21 @@ Thank you everyone.
 ---------------------------
 
  >> "SPI" is also available in .exe format.
+ 
  >> Just double tap on the .exe file to install.
+ 
  >> After installation, you are welcome to use SPI.
 
 --------------------
 | How to use "SPI" |
 --------------------
 
- >> If you want to run through .cpp file, make sure your console box is in the full screen and font size is '20'.
- >> To get access to the administrative permissions, administrator password is: passwordadmin.
- >> If you are new to SPI, make sure you have signed up as a "Faculty".
- >> After sign up log in as a "Faculty" to add student marks and results.
- >> If student result is in database, the student need to login only to get student access.
- >> There are 3 different users: Admin, Faculty & Student.
+ >>1. If you want to run through .cpp file, make sure your console box is in the full screen and font size is '20'.
+ 2. To get access to the administrative permissions, administrator password is: passwordadmin.
+ 3. If you are new to SPI, make sure you have signed up as a "Faculty".
+ 4. After sign up log in as a "Faculty" to add student marks and results.
+ 5. If student result is in database, the student need to login only to get student access.
+ 6. There are 3 different users: Admin, Faculty & Student.
 
    Admin :
    
